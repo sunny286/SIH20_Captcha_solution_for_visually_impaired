@@ -9,6 +9,6 @@ Screenshot
 ![Screenshot is here](IMG_20200219_113837.jpg)
 
 
- <a href="https://anandiiitbh.github.io/SIH20-CAPTCHA-alternate-solution-for-visually-impaired/">index.html</a> is just an sample view  ..   
+ <a href="https://sunny286.github.io/SIH20_Captcha_solution_for_visually_impaired/index.html">index.html</a> is just an sample view  ..   
  
- sample view-->https://anandiiitbh.github.io/SIH20-CAPTCHA-alternate-solution-for-visually-impaired/
+ sample view-->https://sunny286.github.io/SIH20_Captcha_solution_for_visually_impaired/index.html
